@@ -18,16 +18,16 @@ python top10.py
 
 ## Example
 
-Rank  Track Name                         Artist(s)
--------------------------------------------------------
-1.    Montero (Call Me By Your Name)     Lil Nas X
-2.    Kiss Me More (feat. SZA)           Doja Cat, SZA
-3.    Levitating (feat. DaBaby)          Dua Lipa, DaBaby
-4.    Save Your Tears (with Ariana Gr... The Weeknd, Ariana Grande
-5.    Astronaut In The Ocean             Masked Wolf
-6.    Peaches (feat. Daniel Caesar & ... Justin Bieber, Daniel Caesar, Giveon
-7.    Your Love (9PM)                    ATB, Topic, A7S
-8.    Leave The Door Open                Silk Sonic, Bruno Mars, Anderson .Paak
-9.    Beautiful Mistakes (feat. Megan... Maroon 5, Megan Thee Stallion
-10.   Fiel                                Los Legendarios, Wisin, Jhay Cortez
+| Rank | Track Name                           | Artist(s)                            |
+|------|-------------------------------------|--------------------------------------|
+| 1.   | Montero (Call Me By Your Name)       | Lil Nas X                            |
+| 2.   | Kiss Me More (feat. SZA)             | Doja Cat, SZA                        |
+| 3.   | Levitating (feat. DaBaby)            | Dua Lipa, DaBaby                     |
+| 4.   | Save Your Tears (with Ariana Grande) | The Weeknd, Ariana Grande            |
+| 5.   | Astronaut In The Ocean               | Masked Wolf                          |
+| 6.   | Peaches (feat. Daniel Caesar & Giveon)| Justin Bieber, Daniel Caesar, Giveon|
+| 7.   | Your Love (9PM)                      | ATB, Topic, A7S                      |
+| 8.   | Leave The Door Open                  | Silk Sonic, Bruno Mars, Anderson .Paak|
+| 9.   | Beautiful Mistakes (feat. Megan Thee Stallion)| Maroon 5, Megan Thee Stallion|
+| 10.  | Fiel                                 | Los Legendarios, Wisin, Jhay Cortez  |
 
