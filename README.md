@@ -31,3 +31,15 @@ python top10.py
 | 9.   | Beautiful Mistakes (feat. Megan Thee Stallion)| Maroon 5, Megan Thee Stallion|
 | 10.  | Fiel                                 | Los Legendarios, Wisin, Jhay Cortez  |
 
+
+## Contributing
+
+If you would like to contribute to this project, feel free to open a pull request or issue on GitHub.
+
+## Authors
+
+This code was written by [ALIILAPRO](https://github.com/ALIILAPRO).
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 License - see the [LICENSE](https://github.com/ALIILAPRO/Top10-Spotify/blob/main/LICENSE) file for details.
