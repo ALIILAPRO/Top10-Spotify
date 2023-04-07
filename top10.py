@@ -1,8 +1,8 @@
 import requests
 
-# Set up your Spotify API credentials
-client_id = 'YOUR_CLIENT_ID'
-client_secret = 'YOUR_CLIENT_SECRET'
+# Prompt the user to enter their Spotify API credentials
+client_id = input('Enter your Spotify client ID: ')
+client_secret = input('Enter your Spotify client secret: ')
 
 # Get an access token from the Spotify API
 response = requests.post('https://accounts.spotify.com/api/token', data={'grant_type': 'client_credentials'}, auth=(client_id, client_secret))
